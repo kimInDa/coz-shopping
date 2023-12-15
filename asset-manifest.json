@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.67bdb7d7.css",
-    "main.js": "/static/js/main.57b88a0e.js",
-    "static/media/all_category.png": "/static/media/all_category.ae12cdcab70b797e232e.png",
-    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/index.html",
-    "main.67bdb7d7.css.map": "/static/css/main.67bdb7d7.css.map",
-    "main.57b88a0e.js.map": "/static/js/main.57b88a0e.js.map"
+    "main.css": "/coz-shopping/static/css/main.529c0c34.css",
+    "main.js": "/coz-shopping/static/js/main.05e72c60.js",
+    "static/media/all_category.png": "/coz-shopping/static/media/all_category.ae12cdcab70b797e232e.png",
+    "static/media/slick.svg": "/coz-shopping/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/coz-shopping/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/coz-shopping/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/coz-shopping/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/coz-shopping/index.html",
+    "main.529c0c34.css.map": "/coz-shopping/static/css/main.529c0c34.css.map",
+    "main.05e72c60.js.map": "/coz-shopping/static/js/main.05e72c60.js.map"
   },
   "entrypoints": [
-    "static/css/main.67bdb7d7.css",
-    "static/js/main.57b88a0e.js"
+    "static/css/main.529c0c34.css",
+    "static/js/main.05e72c60.js"
   ]
 }
